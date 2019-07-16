@@ -28,4 +28,4 @@
       service:
         name: elasticsearch
         state: restarted
-END
+
